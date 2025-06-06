@@ -153,7 +153,7 @@ This project demonstrates:
 
 ## License
 
-[Specify your license here]
+Story Cloze Test dataset creators
 
 ## Acknowledgments
 
